@@ -1,6 +1,5 @@
 ---
-title: Kot0111
+title: Home
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
