@@ -43,7 +43,7 @@ title: Resume
 
 ---
 
-### Head of the Electrical and Electronics Department - Polytech NCM, Formula Student
+### Head of the Electronics Department - Polytech NCM, Formula Student
 
 **Feb, 2020 - Jul, 2023**
 
