@@ -1,6 +1,6 @@
 ---
 title: Resume
-draft: false
+# draft: false
 # tags:
 #   - example-tag
 ---
